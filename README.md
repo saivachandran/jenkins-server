@@ -6,7 +6,7 @@ $ docker pull jenkins/jenkins
 
 # validate docker-compose file
 
-$ docker-compose -f docker-compose.yml
+$ docker-compose -f docker-compose.yml config
 
 # run docker-compose.yml
 
